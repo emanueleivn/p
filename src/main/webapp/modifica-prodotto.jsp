@@ -10,7 +10,7 @@
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
  	<title>Geek Factory - Modifica prodotto</title>
-    <link rel="stylesheet" href="./css/account.css">
+    <link rel="stylesheet" href="./css/account.css ">
     <link rel="icon" href="./img/icon.png">
 </head>
 <body>
